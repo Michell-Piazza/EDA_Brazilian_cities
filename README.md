@@ -22,9 +22,4 @@ This notebook contains an Exploratory Data Analysis (EDA) of Brazilian cities. T
 - **Initial Visualizations**: Initial visualizations exploring population distribution by state, Human Development Index by city, and geographic distribution of cities.
 - **Detailed Analysis**: More detailed analyses, including scatter plots, histograms, and additional visualizations.
 
-## How to Use
-
-To run this notebook locally, follow these steps:
-
-1. Clone the repository to your computer:
 
